@@ -1,0 +1,14 @@
+p{	margin: 9%;
+	text-transform: uppercase;
+	/*background-color: beige;*/}
+
+.derecha{float: right;
+		padding: 8%}
+.izquierda {float: left;
+			padding: 8%}
+
+.colocar {clear: left;}
+
+h1{text-align: center;
+margin-top: 5%}
+body{margin: 8%}
